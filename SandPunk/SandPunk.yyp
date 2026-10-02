@@ -41,11 +41,13 @@
   "resources":[
     {"id":{"name":"mainFont_big","path":"fonts/mainFont_big/mainFont_big.yy",},},
     {"id":{"name":"mainFont","path":"fonts/mainFont/mainFont.yy",},},
+    {"id":{"name":"PlayButton","path":"objects/PlayButton/PlayButton.yy",},},
     {"id":{"name":"QuitButton","path":"objects/QuitButton/QuitButton.yy",},},
     {"id":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"RoomUI","path":"roomui/RoomUI/RoomUI.yy",},},
     {"id":{"name":"Button","path":"sprites/Button/Button.yy",},},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"Vignette","path":"sprites/Vignette/Vignette.yy",},},
   ],
   "resourceType":"GMProject",
