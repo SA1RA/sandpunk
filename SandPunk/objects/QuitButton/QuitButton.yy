@@ -9,8 +9,8 @@
   "name":"QuitButton",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"UIObjects",
+    "path":"folders/Objects/UIObjects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"UIObjects",
+    "path":"folders/Objects/UIObjects.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
