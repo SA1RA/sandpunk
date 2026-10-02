@@ -1,0 +1,35 @@
+{
+  "$GMRoomUI":"",
+  "%Name":"RoomUI",
+  "children":[],
+  "locked":false,
+  "name":"RoomUI",
+  "parent":{
+    "name":"SandPunk",
+    "path":"SandPunk.yyp",
+  },
+  "resourceType":"GMRoomUI",
+  "resourceVersion":"2.0",
+  "viewspaceChildren":[
+    {"$GMRUILayer":"v1","%Name":"UILayer_1","alignItems":2,"children":[
+        {"$GMRFlexPanel":"","%Name":"QuitButon","alignItems":2,"alignSelf":2,"children":[
+            {"$GMRInstance":"v4","%Name":"inst_8ABEBDF","colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps","stretchHeight":true,"stretchWidth":true,},"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_8ABEBDF","objectId":{"name":"QuitButton","path":"objects/QuitButton/QuitButton.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.20812501,"scaleY":0.23166667,"x":5.5,"y":-4.5,},
+            {"$GMRFlexPanel":"","%Name":"FlexPanel_4","alignItems":2,"children":[
+                {"$GMRTextItem":"v3","%Name":"text_799AE6F9","alignment":0,"charSpacing":0.0,"colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps",},"fontId":{"name":"mainFont","path":"fonts/mainFont/mainFont.yy",},"frameH":0.0,"frameW":0.0,"frozen":false,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"lineSpacing":0.0,"name":"text_799AE6F9","paragraphSpacing":0.0,"resourceType":"GMRTextItem","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"text":"Quit","wrap":false,"x":0.0,"y":0.0,},
+              ],"flexDirection":0,"height":{"unit":3,"value":27.0,},"justifyContent":1,"name":"FlexPanel_4","nodeColour":4282958578,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":3,"value":166.0,},},
+          ],"flexDirection":0,"height":{"unit":1,"value":73.0,},"justifyContent":1,"name":"QuitButon","nodeColour":4290660594,"positionBottom":{"unit":1,"value":302.0,},"positionLeft":{"unit":1,"value":357.0,},"positionType":2,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":1,"value":298.0,},},
+        {"$GMRFlexPanel":"","%Name":"FlexPanel","alignItems":2,"alignSelf":2,"children":[
+            {"$GMRInstance":"v4","%Name":"inst_7EE0B4EF","colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps","stretchHeight":true,"stretchWidth":true,},"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7EE0B4EF","objectId":{"name":"PlayButton","path":"objects/PlayButton/PlayButton.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
+            {"$GMRFlexPanel":"","%Name":"FlexPanel_4","alignItems":2,"children":[
+                {"$GMRTextItem":"v3","%Name":"text_8D7E01C","alignment":0,"charSpacing":0.0,"colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps",},"fontId":{"name":"mainFont","path":"fonts/mainFont/mainFont.yy",},"frameH":0.0,"frameW":0.0,"frozen":false,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"lineSpacing":0.0,"name":"text_8D7E01C","paragraphSpacing":0.0,"resourceType":"GMRTextItem","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"text":"Play","wrap":false,"x":0.0,"y":0.0,},
+              ],"flexDirection":0,"height":{"unit":3,"value":27.0,},"justifyContent":1,"name":"FlexPanel_4","nodeColour":4282958578,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":3,"value":166.0,},},
+          ],"flexDirection":0,"height":{"unit":1,"value":73.0,},"justifyContent":1,"name":"FlexPanel","nodeColour":4294068381,"positionLeft":{"unit":1,"value":361.0,},"positionTop":{"unit":1,"value":287.0,},"positionType":2,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":1,"value":298.0,},},
+      ],"flexDirection":0,"gridX":32,"gridY":32,"justifyContent":1,"name":"UILayer_1","nodeColour":4282970806,"resourceType":"GMRUILayer","resourceVersion":"2.0",},
+    {"$GMRUILayer":"v1","%Name":"UILayer_2","alignItems":2,"children":[
+        {"$GMRFlexPanel":"","%Name":"FlexPanel_2","alignItems":2,"children":[
+            {"$GMRTextItem":"v3","%Name":"text_7ED2E1D4","alignment":1,"charSpacing":0.0,"colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps",},"fontId":{"name":"mainFont_big","path":"fonts/mainFont_big/mainFont_big.yy",},"frameH":0.0,"frameW":0.0,"frozen":false,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"lineSpacing":0.0,"name":"text_7ED2E1D4","origin":4,"paragraphSpacing":0.0,"resourceType":"GMRTextItem","resourceVersion":"2.0","rotation":0.0,"scaleX":1.33,"scaleY":1.33,"text":"SandPunk","wrap":false,"x":-395.0,"y":-8.170013,},
+          ],"flexDirection":0,"height":{"unit":3,"value":21.0,},"justifyContent":1,"name":"FlexPanel_2","nodeColour":4283648242,"positionLeft":{"unit":1,"value":878.0,},"positionTop":{"unit":1,"value":173.0,},"positionType":2,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":3,"value":129.0,},},
+      ],"flexDirection":0,"gridX":32,"gridY":32,"justifyContent":1,"name":"UILayer_2","nodeColour":4294069320,"resourceType":"GMRUILayer","resourceVersion":"2.0",},
+  ],
+  "visible":true,
+}
